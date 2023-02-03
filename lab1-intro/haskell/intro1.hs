@@ -1,5 +1,7 @@
 module Intro1 where
 
+-- comment
+
 -- define named constants:
 r1 = 1
 r2 = b^2 + 1/b where b = 2
